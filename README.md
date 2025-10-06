@@ -1,4 +1,4 @@
-Hi there I am Gunnar
+Hi there, I am Gunnar
 
 
 - 🌱 I’m currently learning Java
